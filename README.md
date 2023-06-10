@@ -1,1 +1,1 @@
-# goat
+# GOAT: a set of libraries for Golang.
